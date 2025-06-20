@@ -42,10 +42,3 @@ This repository contains two Django REST API projects:
 - Admin interface available at `/admin/`.  
 - Uses SQLite as the default database (configurable).  
 
-## Contributing
-
-Feel free to fork, modify, and submit pull requests to enhance these APIs.
-
-## License
-
-This project is licensed under the MIT License.
